@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sound",
+					"strict" : false
+				},
+				{
+					"name" : "vibr",
+					"strict" : false
+				},
+				{
+					"name" : "touch",
+					"strict" : false
+				},
+				{
+					"name" : "en",
+					"strict" : false
+				},
+				{
+					"name" : "obstcale",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

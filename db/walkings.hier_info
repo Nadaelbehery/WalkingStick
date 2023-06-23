@@ -1,0 +1,9 @@
+|walkings
+en => sound.OUTPUTSELECT
+en => vibr.OUTPUTSELECT
+touch => sound.DATAB
+obstcale => vibr.DATAB
+sound << sound.DB_MAX_OUTPUT_PORT_TYPE
+vibr << vibr.DB_MAX_OUTPUT_PORT_TYPE
+
+
